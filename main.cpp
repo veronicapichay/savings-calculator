@@ -1,6 +1,7 @@
 //*****************
 //Program Name: Program 3 - Savings Compounding
 //Author: Veronica Pichay
+//Created: ‎March ‎8, ‎2022, ‏‎4:51:44 PM
 //IDE Used: Repl.it
 //Program description: Calculates the amount of savings after one year using compounded interest
 //*****************
